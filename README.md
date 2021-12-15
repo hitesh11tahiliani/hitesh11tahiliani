@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tahilianihitesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahilianihitesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hitesh tahiliani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh tahiliani" height="30" width="40" /></a>
-<a href="https://instagram.com/__h__i__t__e__s__h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__h__i__t__e__s__h" height="30" width="40" /></a>
+<a href="https://twitter.com/TahilianiHitesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahilianihitesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hitesh-tahiliani-260b51217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh tahiliani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__h__i__t__e__s__h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__h__i__t__e__s__h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
